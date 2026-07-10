@@ -26,3 +26,11 @@
 - 🎯 **Number Guessing Game**
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=neelnova0&theme=tokyo-night)
+
+
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/neelnova0/neelnova0/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
