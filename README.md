@@ -10,7 +10,7 @@
 
 ## 🛠️ Tech I Use
 
-Python • Django • HTML • CSS • JavaScript • Git • GitHub • MySQL
+[(https://skillicons.dev/icons?i=python,django,html,c,cpp)](https://skillicons.dev)
 
 ## 📌 Current Focus
 
