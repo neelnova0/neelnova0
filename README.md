@@ -10,7 +10,7 @@
 
 ## 🛠️ Tech I Use
 
-[(https://skillicons.dev/icons?i=python,django,html,c,cpp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,django,html,c,cpp)](https://skillicons.dev)
 
 ## 📌 Current Focus
 
