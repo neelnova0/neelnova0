@@ -24,7 +24,8 @@
 - 🍽️ **House of Zaika** – Restaurant Website
 - 🎮 **Rock Paper Scissors Showdown**
 - 🎯 **Number Guessing Game**
-<!--
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=neelnova0&theme=tokyo-night)<!--
 **neelnova0/neelnova0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
