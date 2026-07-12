@@ -32,5 +32,5 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/neelnova0/neelnova0/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://github.com/neelnova0/neelnova0/blob/output/github-contribution-grid-snake.svg?raw=true" alt="Snake animation" />
 </p>
